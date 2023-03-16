@@ -1,6 +1,6 @@
 ### Welcome to Chandler Che's github page 👋
 
-- 🔭 I’m looking for Software engineering internship/coop for Summer and Fall 2023
-- 🌱 I’m currently studying CS at Northeastern University
+- 🔭 I’m looking for Software Engineering Internship/Co-op for Summer and Fall 2023
+- 🌱 Currently studying CS at Northeastern University
 - 📫 Email: jchetogo@gmail.com
 - 😄 Pronouns: they/them/theirs

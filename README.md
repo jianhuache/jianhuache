@@ -1,4 +1,4 @@
-### Welcome to Jianhua Che's github page 👋
+### Welcome to Chandler Che's github page 👋
 
 - 🔭 I’m looking for Software engineering internship/coop for Summer and Fall 2023
 - 🌱 I’m currently studying CS at Northeastern University

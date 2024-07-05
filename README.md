@@ -1,6 +1,6 @@
-### Welcome to Chandler Che's github page 👋
+### Welcome to Jianhua Che's github page 👋
 
-- 🔭 I’m looking for Software Engineering Internship/Co-op for Summer 2024
+- 🔭 I’m interning at Dexcom in Summer 2024, working on text to video AI intergration
 - 🌱 Currently studying CS at Northeastern University
-- 📫 Email: jchetogo@gmail.com
+- 📫 Email: jianhuache2024@gmail.com
 - 😄 Pronouns: they/them/theirs
